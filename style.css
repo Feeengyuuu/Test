@@ -1,0 +1,51 @@
+<style media="screen">
+
+@import
+url('https://fonts.googleapis.com/css?family=Libre+Barcode+128+Text');
+
+@font-face {
+  font-family: "3Dumb";
+  src:url(more_fonts/3dumb.ttf);
+}
+
+*{
+    font-family: "Muna", sans-serif;
+    border: 1px dashed red
+}
+
+
+
+
+
+  span{
+    font-family: "Luminari","Helvetica Neue", "Arial", sans-serif;
+    font-size: 50px;
+    background-color: blue;
+
+  }
+
+  div{
+    background-color: darkgoldenrod;
+    font-size: 30px;
+    display: inline;
+
+  }
+
+  #barcode{
+    font-family: "Libre Barcode 128 Text",cursive;
+    font-size: 45px;
+    line-height: "70px";
+
+  }
+  #newfont{
+    font-family: "3Dumb",cursive;
+    font-weight:"800";
+    line-height: "70px";
+  }
+  #sofia{
+
+    line-height: 70px;
+    text-shadow: 2px 3px 4px rgb(0, 0, 0)
+  }
+
+</style>
